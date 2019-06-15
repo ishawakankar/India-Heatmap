@@ -1,0 +1,233 @@
+[
+    {
+        "event": {
+            "count": 308,
+            "device_loc_state": "Andhra Pradesh",
+            "device_loc_state_code": "AP"
+        }
+    },
+    {
+        "event": {
+            "count": 397,
+            "device_loc_state": "Assam",
+            "device_loc_state_code": "AS"
+        }
+    },
+    {
+        "event": {
+            "count": 1102,
+            "device_loc_state": "Bihar",
+            "device_loc_state_code": "BR"
+        }
+    },
+    {
+        "event": {
+            "count": 9252,
+            "device_loc_state": "Chandigarh",
+            "device_loc_state_code": "CH"
+        }
+    },
+    {
+        "event": {
+            "count": 38,
+            "device_loc_state": "Chhattisgarh",
+            "device_loc_state_code": "CT"
+        }
+    },
+    {
+        "event": {
+            "count": 11297,
+            "device_loc_state": "National Capital Territory of Delhi",
+            "device_loc_state_code": "DL"
+        }
+    },
+    {
+        "event": {
+            "count": 698,
+            "device_loc_state": "Dadra and Nagar Haveli",
+            "device_loc_state_code": "DN"
+        }
+    },
+    {
+        "event": {
+            "count": 1,
+            "device_loc_state": "Lakshadweep",
+            "device_loc_state_code": "LD"
+        }
+    },
+    {
+        "event": {
+            "count": 8,
+            "device_loc_state": "Andaman and Nicobar Islands",
+            "device_loc_state_code": "AN"
+        }
+    },
+    {
+        "event": {
+            "count": 394,
+            "device_loc_state": "Goa",
+            "device_loc_state_code": "GA"
+        }
+    },
+    {
+        "event": {
+            "count": 24676,
+            "device_loc_state": "Gujarat",
+            "device_loc_state_code": "GJ"
+        }
+    },
+    {
+        "event": {
+            "count": 5,
+            "device_loc_state": "Himachal Pradesh",
+            "device_loc_state_code": "HP"
+        }
+    },
+    {
+        "event": {
+            "count": 573,
+            "device_loc_state": "Haryana",
+            "device_loc_state_code": "HR"
+        }
+    },
+    {
+        "event": {
+            "count": 414,
+            "device_loc_state": "Jharkhand",
+            "device_loc_state_code": "JH"
+        }
+    },
+    {
+        "event": {
+            "count": 276,
+            "device_loc_state": "Jammu and Kashmir",
+            "device_loc_state_code": "JK"
+        }
+    },
+    {
+        "event": {
+            "count": 319,
+            "device_loc_state": "Karnataka",
+            "device_loc_state_code": "KA"
+        }
+    },
+    {
+        "event": {
+            "count": 4859,
+            "device_loc_state": "Kerala",
+            "device_loc_state_code": "KL"
+        }
+    },
+    {
+        "event": {
+            "count": 395,
+            "device_loc_state": "Maharashtra",
+            "device_loc_state_code": "MH"
+        }
+    },
+    {
+        "event": {
+            "count": 3,
+            "device_loc_state": "Meghalaya",
+            "device_loc_state_code": "ML"
+        }
+    },
+    {
+        "event": {
+            "count": 289,
+            "device_loc_state": "Manipur",
+            "device_loc_state_code": "MN"
+        }
+    },
+    {
+        "event": {
+            "count": 89,
+            "device_loc_state": "Madhya Pradesh",
+            "device_loc_state_code": "MP"
+        }
+    },
+    {
+        "event": {
+            "count": 15,
+            "device_loc_state": "Nagaland",
+            "device_loc_state_code": "NL"
+        }
+    },
+    {
+        "event": {
+            "count": 6942,
+            "device_loc_state": "Odisha",
+            "device_loc_state_code": "OR"
+        }
+    },
+    {
+        "event": {
+            "count": 550,
+            "device_loc_state": "Punjab",
+            "device_loc_state_code": "PB"
+        }
+    },
+    {
+        "event": {
+            "count": 2598,
+            "device_loc_state": "Union Territory of Puducherry",
+            "device_loc_state_code": "PY"
+        }
+    },
+    {
+        "event": {
+            "count": 2561,
+            "device_loc_state": "Rajasthan",
+            "device_loc_state_code": "RJ"
+        }
+    },
+    {
+        "event": {
+            "count": 9,
+            "device_loc_state": "Sikkim",
+            "device_loc_state_code": "SK"
+        }
+    },
+    {
+        "event": {
+            "count": 2169,
+            "device_loc_state": "Daman and Diu",
+            "device_loc_state_code": "DD"
+        }
+    },
+    {
+        "event": {
+            "count": 5841,
+            "device_loc_state": "Telangana",
+            "device_loc_state_code": "TG"
+        }
+    },
+    {
+        "event": {
+            "count": 555,
+            "device_loc_state": "Tamil Nadu",
+            "device_loc_state_code": "TN"
+        }
+    },
+    {
+        "event": {
+            "count": 828,
+            "device_loc_state": "Uttar Pradesh",
+            "device_loc_state_code": "UP"
+        }
+    },
+    {
+        "event": {
+            "count": 4,
+            "device_loc_state": "Uttarakhand",
+            "device_loc_state_code": "UT"
+        }
+    },
+    {
+        "event": {
+            "count": 1029,
+            "device_loc_state": "West Bengal",
+            "device_loc_state_code": "WB"
+        }
+    }
+]
